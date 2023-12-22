@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0k-0k (Rinshid)
+- 👋 Hi, I’m @0k-0k
 - 👀 I’m interested in Blockchain, Dapps, Web3
 - 🌱 I’m currently learning Rust, svelte 
 - 💞️ I’m looking to collaborate on web3 projects
